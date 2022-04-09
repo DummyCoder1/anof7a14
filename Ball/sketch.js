@@ -1,4 +1,4 @@
-var colors = ["white","orange","red","green"];
+var colors = ["white","orange","red","green","yellow","black"];
 
 function setup() {
   createCanvas(innerWidth, innerHeight);
